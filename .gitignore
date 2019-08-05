@@ -8,6 +8,7 @@
 /wikipedia/target
 /wikipedia/.metals
 /wikipedia/.bloop
+/wikipedia/src/main/resources
 
 /stackoverflow/project
 /stackoverflow/target
