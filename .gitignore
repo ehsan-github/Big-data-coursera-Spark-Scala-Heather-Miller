@@ -4,10 +4,13 @@
 /example/target
 /example/.metals
 
-/stackoverflow/project
-/stackoverflow/target
-/stackoverflow/.metals
-
 /wikipedia/project
 /wikipedia/target
 /wikipedia/.metals
+/wikipedia/.bloop
+
+/stackoverflow/project
+/stackoverflow/target
+/stackoverflow/.metals
+/stackoverflow/.bloop
+
