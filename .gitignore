@@ -16,3 +16,9 @@
 /stackoverflow/.bloop
 /stackoverflow/src/main/resources
 
+/timeusage/project
+/timeusage/target
+/timeusage/.metals
+/timeusage/.bloop
+/timeusage/src/main/resources
+
